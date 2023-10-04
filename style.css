@@ -106,9 +106,7 @@ background-color: #e0f3ff;
     align-items: center;
     margin-right: 20px;
 }
-#lakhs p{
-    /* line-height: 5px; */
-}
+
 #lakhs img{
     margin-right: 10px;
     width: 40px;
@@ -319,7 +317,7 @@ background-color: #e0f3ff;
     width:30px;
     height: 30px;
     border-radius: 50%;
-    background-color: ;
+    
 }
 .ms-div1{
     display: flex;
@@ -393,9 +391,7 @@ background-color: #e0f3ff;
     .hero-col-1{
         width: 90vw;
     }
-    .hero-col-1-div-2{
-        d
-    }
+    
     .hero-col-2{
         width: 80vw !important;
         margin-top: 220px;
